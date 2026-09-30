@@ -1,0 +1,6 @@
+{
+  "name": "Farm2Home - Direct Farm to Doorstep Organic Produce",
+  "description": "Fresh, certified organic vegetables, heirloom fruits, cold-pressed oils, and farm baskets delivered directly from local farmers to your kitchen within hours of dawn harvest.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
